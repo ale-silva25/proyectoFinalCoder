@@ -7666,7 +7666,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("./assets/img/Malta-de-Cebada.jpeg");
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("/assets/img/Malta-de-Cebada.jpeg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover; }
